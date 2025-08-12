@@ -1,4 +1,4 @@
-// Custom structs with seralize/deserialize.
+// Custom structs with serialize/deserialize.
 use anyhow::Error;
 use serde::{Deserialize, Serialize};
 use serde_json::Value as JsonValue;
